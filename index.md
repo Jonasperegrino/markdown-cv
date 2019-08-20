@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lebenslauf Jonas Haag
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jonas Haag
+Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="haagjonas@gmail.com">haagjonas@gmail.com</a>
 
 
-## Currently
 
-Standing on the shoulders of giants
+## Berufserfahrung
+
+`April 2019-Jetzt`
+Specialist bei Trevisto Plant Solutions
 
 ### Specialized in
 
@@ -25,20 +25,8 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Studium
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
@@ -86,6 +74,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2019 -->
 
 
