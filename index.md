@@ -3,7 +3,7 @@ layout: cv
 title: Lebenslauf Jonas Haag
 ---
 # Jonas Haag
-Data Scientist
+Data scientist with experience in agriculture, sports and renewable energy. Using mainly python, docker and bash. Fluent in English and Portuguese.
 
 <div id="webaddress">
 <a href="haagjonas@gmail.com">haagjonas@gmail.com</a>
